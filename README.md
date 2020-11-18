@@ -25,6 +25,11 @@ This is about my 16 years of my life.
 ### Author
 Torin
 
+### 50-Word Description
+This is a description of my self. I try to be a hard working but yet it never turns out that way. I am young but yet people think I'm in university. I use to swim a lot but now I sleep a lot in my bed a lot. I don't really know what to do because of pandemic right now. But hopefully I can return to school soon.
+
+
+
 ---
 
 
