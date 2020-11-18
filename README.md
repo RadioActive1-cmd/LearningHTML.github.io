@@ -22,7 +22,8 @@ This is about my 16 years of my life.
 ### Data Started
 20201118 | November 18 2020
 
-
+### Author
+Torin
 
 ---
 
