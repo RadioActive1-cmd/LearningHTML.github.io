@@ -7,8 +7,11 @@ Progressions
 - Project Folder Structure
 - Annotating ReadMe.md Files with GitHub Markdown (starting in Other End-unit projects)
 
+
 ---
 
 #To Include
+
+See https://github.com/QEHS-Websites/Introductory-HTML for Ideas to Transfer here
 
 ---
